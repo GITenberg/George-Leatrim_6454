@@ -1,0 +1,27 @@
+_repo: George-Leatrim_6454
+creator:
+  author:
+    agent_name: Moodie, Susanna
+    aliases:
+    - Strickland, Susannah
+    - Moodie, Susannah Strickland
+    - Strickland, S. (Susanna)
+    birthdate: 1803
+    deathdate: 1885
+    gutenberg_agent_id: '2656'
+    url: http://www.gutenberg.org/2009/agents/2656
+    wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Religious fiction'
+title: George Leatrim
+url: http://www.gutenberg.org/ebooks/6454
