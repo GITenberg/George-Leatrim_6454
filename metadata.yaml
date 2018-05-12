@@ -1,4 +1,8 @@
 _repo: George-Leatrim_6454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moodie, Susanna
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2656
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6454#George-Leatrim
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
